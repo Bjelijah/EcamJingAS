@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">e看·景</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="setting">设置</string>
+    <string name="preview">视频</string>
+    <string name="add">添加</string>
+    <string name="playback">录像</string>
+    <string name="playback_list">录像列表</string>
+    <string name="playback_list_download">下载管理</string>
+    <string name="load_more">点击加载更多</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="last_update">上次更新</string>
+    <string name="release_to_refresh">松开刷新</string>
+    <string name="refreshing">正在刷新</string>
+	<string name="load_data">正在加载数据</string>
+
+	<!-- 设置 -->
+	<string name="setting_wifi">wifi设置</string>
+	<string name="setting_time">时间校准</string>
+	<string name="setting_time_set">同步时间</string>
+	<string name="setting_time_set_cancel">取                   消</string>
+	<string name="setting_state">摄像机状态</string>
+	<string name="setting_switch_off">关闭录像</string>
+	<string name="setting_switch_on">开启录像</string>
+	<string name="setting_clean_cach">清除缓存</string>
+	
+	
+	<!-- wifi -->
+	<string name="wifi_name">无线网络名称</string>
+	<string name="wifi_pwd">无线网络密码</string>
+	
+	<!-- course -->
+	<string name="course_next_step">下一步</string>
+	<string name="course_last_step">返回上一步</string>
+	<string name="course_top">退出教程</string>
+	<string name="course_text1_step0">长按电源键2秒,电源指示灯亮起</string>
+	<string name="course_text2_step0">表示正常开机。（红灯为电量不足）</string>
+	<string name="course_text3_step0"></string>
+	<string name="course_text1_step1">短按Wi-Fi键，Wi-Fi指示灯亮起</string>
+	<string name="course_text2_step1">表示设备的Wi-Fi已打开</string>
+	<string name="course_text3_step1"></string>
+	<string name="course_text1_step2">开启手机Wi-Fi，找到设备并连接</string>
+	<string name="course_text2_step2">设备名称：Howell-XXXX</string>
+	<string name="course_text3_step2">密    码：1234567890</string>
+	<string name="course_ask_step0">电源灯亮了吗</string>
+	<string name="course_btn_step0">电源灯亮了，下一步</string>
+	<string name="course_ask_step1">Wi-Fi灯亮了吗</string>
+	<string name="course_btn_step1">Wi-Fi灯亮了，下一步</string>
+	<string name="course_ask_step2"></string>
+	<string name="course_btn_step2">设置完成</string>
+	<string name="course_btn_set_wifi">设置WiFi</string>
+	<string name="course_btn_set_ok">设置完成</string>
+	
+	<!-- download -->
+	<string name="download_wait">等待中</string>
+</resources>

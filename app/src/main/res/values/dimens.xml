@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    
+    <!-- course -->
+    <dimen name="course_tv_top">20sp</dimen>
+    <dimen name="course_tv_text">15sp</dimen>
+    <dimen name="course_tv_ask">12sp</dimen>
+    <dimen name="course_btn">18sp</dimen>
+    <dimen name="course_btn_margin">50dp</dimen>
+    
+    
+</resources>

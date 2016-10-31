@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    
+    <color name="transparent">#00000000</color>
+    <color name="blue">#1b98f0</color>
+    <color name="add_more">#E6E6E6</color>
+    <color name="gray">#A7A8A9</color>
+    <color name="course_gray_step0">#323232</color>
+    <color name="course_gray_step1">#343434</color>
+    <color name="course_green">#11c146</color>
+    <color name="course_btn_gray">#464646</color>
+    <color name="course_text_gray">#8a8a8a</color>
+    <color name="course_btn_blue">#0391ff</color>
+    <color name="course_btn_green">#3fc292</color>
+</resources>
